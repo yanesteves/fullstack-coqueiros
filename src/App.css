@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-weight: 600;
+  font-size: 45px;
+  color: #F60074!important;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Azeret Mono',monospace;
+}
+
+.companies {
+  background-image: url('https://devinhouse.tech/wp-content/uploads/sites/2/2021/10/bg-empresas-1-e1680798199869.jpg');
+}
